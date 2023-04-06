@@ -10,7 +10,7 @@ laterYears *= 4;
 console.log(earlyYears);
 console.log(laterYears);
 //the age converted to dog years
-//from human
+//from human to dogs
 let myAgeInDogYears = earlyYears + laterYears;
 //converting name in to lower cases
 let myName = "Kam Noah".toLowerCase();
